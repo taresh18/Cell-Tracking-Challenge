@@ -10,7 +10,7 @@ Fluo-C2DL-MSC
 - Shape of cells is very irregular (very different from circular) due to **long, thin extensions** which also cause the cell boundaries to be very vague (not well defined). Thus, **segmentation is difficult**.
 - Shape of cells changes significantly even within consecutive frames.
 
-![](Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.002.png)![](Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.003.png)![](Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.004.png)![](Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.005.png)
+![](Images/Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.002.png)![](Images/Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.003.png)![](Images/Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.004.png)![](Images/Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.005.png)
 
 
 
@@ -22,7 +22,7 @@ Fluo-C2DL-MSC
 
 - Significant fading is present as intensity in some of the cells is higher than others
 
-![](Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.006.png)
+![](Images/Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.006.png)
 
 - Cells move fast causing **low overlaps between cells of consecutive frames** thus **tracking is difficult**
 - No cell divisions are present.
@@ -39,7 +39,7 @@ Fluo-C2DL-huh7
 - Very **less movement** in cells between consecutive frames so tracking score is low maybe due to the presence of **clusters of cells**.
 - Most of the cells have a regular (circular-like) shape.
 - **Intra-cellular heterogeneity** is present so cell over-segmentation may occur thus, SEG score is low.
-  ![](Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.007.png)
+  ![](Images/Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.007.png)
 - Cell divisions are present
 
 
@@ -48,7 +48,7 @@ Fluo-C2DL-huh7
 - Intra-cellular heterogeneity is present.
 - Cell divisions are present.
 - One of the cells undergoes very rapid shape variations unlike the other cells.
-  ![](Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.008.png)![](Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.009.png)![](Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.010.png)![](Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.011.png)![](Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.012.png)![](Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.013.png)
+  ![](Images/Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.008.png)![](Images/Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.009.png)![](Images/Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.010.png)![](Images/Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.011.png)![](Images/Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.012.png)![](Images/Aspose.Words.c90b2e9b-0c05-4275-b624-058d2bff0846.013.png)
 
 
 
